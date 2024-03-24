@@ -1,0 +1,111 @@
+F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.exe
+F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.pdb
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\salesAndInventory.csprojResolveAssemblyReference.cache
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.AdminView.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.AuditTrail.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmUpdateLimit.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmAddManufac.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmCriticalItems.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmLogin.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmAddProduct.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.FrmBookStore.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmNotes.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmNotes2.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmReceiveCrit.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmRecordCashier.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.FrmRegister.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.FrmAdminLogin.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.FrmAdminMenu.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmStart.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.FrmUpdate.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmRecordSales.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmManageUser.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.frmUserLog.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.ItemReport.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.LoginTrail.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.Properties.Resources.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.ReceiveOrder.resources
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.GenerateResource.Cache
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.CoreCompileInputs.cache
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.pdb
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\bin\Debug\skelot.exe
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\bin\Debug\skelot.pdb
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Download\SalesAndInventory\Sample\skelot\salesAndInventory\obj\x86\Debug\skelot.exe
+D:\Project download\salesAndInventory\salesAndInventory\bin\Debug\skelot.exe.config
+D:\Project download\salesAndInventory\salesAndInventory\bin\Debug\skelot.exe
+D:\Project download\salesAndInventory\salesAndInventory\bin\Debug\skelot.pdb
+D:\Project download\salesAndInventory\salesAndInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project download\salesAndInventory\salesAndInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project download\salesAndInventory\salesAndInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project download\salesAndInventory\salesAndInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.AssemblyReference.cache
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.AdminView.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.AuditTrail.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmUpdateLimit.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmAddManufac.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmCriticalItems.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmLogin.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmAddProduct.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmBookStore.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmNotes.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmNotes2.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmReceiveCrit.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmRecordCashier.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmRegister.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmAdminLogin.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmAdminMenu.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmStart.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmUpdate.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmRecordSales.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmManageUser.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmUserLog.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.ItemReport.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.LoginTrail.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.Properties.Resources.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.ReceiveOrder.resources
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.GenerateResource.cache
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.CoreCompileInputs.cache
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.CopyComplete
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.exe
+D:\Project download\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.pdb
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\bin\Debug\skelot.exe.config
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\bin\Debug\skelot.exe
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\bin\Debug\skelot.pdb
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.AssemblyReference.cache
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.AdminView.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.AuditTrail.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmUpdateLimit.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmAddManufac.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmCriticalItems.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmLogin.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmAddProduct.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmBookStore.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmNotes.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmNotes2.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmReceiveCrit.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmRecordCashier.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmRegister.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmAdminLogin.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmAdminMenu.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmStart.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.FrmUpdate.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmRecordSales.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmManageUser.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.frmUserLog.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.ItemReport.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.LoginTrail.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.Properties.Resources.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.ReceiveOrder.resources
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.GenerateResource.cache
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.CoreCompileInputs.cache
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\salesAndInventory.csproj.CopyComplete
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.exe
+D:\Đại học\HK6\.net\salesAndInventory\salesAndInventory\obj\x86\Debug\skelot.pdb
